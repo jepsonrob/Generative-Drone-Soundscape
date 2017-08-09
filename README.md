@@ -2,12 +2,12 @@
 An OS X audio-playback application triggered by keystrokes.
 
 
-	Application Requirements;
+	Application Requirements:
 		1gb RAM
 		100mb free space on Hard Drive
 		
 
-Operating the Application
+#Operating the Application
 
 Upon opening the sampler, select a keyboard input via the drop down menu. The selections change from computer to computer, so it is worth attempting to try different options if there is a problem with the application.
 
@@ -21,7 +21,7 @@ To enable ‘Global Speed’, toggle the option in settings. This allows the num
 
 To change the amount of keystrokes required to trigger a new sample, change the number next to ‘Amount of Keystrokes…’ text in settings and press enter. At its lowest number, 1, the application requires two keystrokes to trigger a sound.		
 
-Recording Audio
+#Recording Audio
 
 The typical recording method is using an audio interface: take either your left or right output and connect it to an input. In the GDS application, set your output to the audio interface. On your DAW of choice, do not use your interface as output, and make sure that on the interface the mix is at 0% for inputs in order to avoid feedback.
 Alternately, download soundflower from; http://rogueamoeba.com/freebies/soundflower/
